@@ -1,0 +1,14 @@
+{
+  "name": "tm-elm",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^4.3.2",
+    "vite": "^2.6.4",
+    "vite-plugin-elm": "^2.5.1"
+  }
+}

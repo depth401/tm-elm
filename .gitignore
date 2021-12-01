@@ -1,0 +1,35 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+
+# Created by https://www.toptal.com/developers/gitignore/api/visualstudiocode,elm
+# Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,elm
+
+### Elm ###
+# elm-package generated files
+elm-stuff
+# elm-repl generated files
+repl-temp-*
+
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# Local History for Visual Studio Code
+.history/
+
+### VisualStudioCode Patch ###
+# Ignore all local history of files
+.history
+.ionide
+
+# Support for Project snippet scope
+!.vscode/*.code-snippets
+
+# End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,elm
